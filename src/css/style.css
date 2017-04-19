@@ -1,0 +1,23 @@
+#sign-up-form {
+    margin: 0px 25% 0px 25%;
+}
+
+#login-form {
+    margin: 0px 25% 0px 25%;
+}
+
+.small-character-count {
+    color: #2ecc71;
+}
+
+.medium-character-count {
+    color: #f7ca18;
+}
+
+.large-character-count {
+    color: #ef4836;
+}
+
+#tweet-form {
+    text-align: center;
+}
