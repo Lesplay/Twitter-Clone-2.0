@@ -26,4 +26,4 @@ Back-end functionalities to be implemented at a later date:
 Front-end:
 - All in all 'prettifying' the app
 
-If you have any ideas what I could've/could do better - please, sent me a message!
+If you have any ideas what I could've/could do better - please, sent me a message: oleszczuk.michal at gmail.com
